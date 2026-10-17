@@ -1,5 +1,5 @@
 -- name: Star Speed
--- description: Star Number = Mario's Speed, by Niv\\#0069ff\\44! (speed of the cheat mod)
+-- description: Star Number = Mario's Speed, by Niv\\#0069ff\\44!   \\#ffffff\\(speed of the cheat mod)
 
 local function star_speed(m)
     local speed = (m.numStars * 0.05) + 0.05
